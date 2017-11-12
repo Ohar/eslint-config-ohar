@@ -36,13 +36,13 @@ To use the JavaScript Standard Style shareable config, first run this:
 ### NPM
 
 ```bash
-npm install -D eslint-config-standard eslint-plugin-standard eslint-plugin-promise eslint-plugin-import eslint-plugin-node
+npm install -D eslint-config-ohar eslint-plugin-standard eslint-plugin-promise eslint-plugin-import eslint-plugin-node
 ```
 
 ### Yarn
 
 ```bash
-yarn add -D eslint-config-standard eslint-plugin-standard eslint-plugin-promise eslint-plugin-import eslint-plugin-node
+yarn add -D eslint-config-ohar eslint-plugin-standard eslint-plugin-promise eslint-plugin-import eslint-plugin-node
 ```
 
 Then, add this to your .eslintrc file:
