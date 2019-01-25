@@ -1,7 +1,7 @@
 {
   "name": "eslint-config-ohar",
   "description": "JavaScript Ohar Style - ESLint Shareable Config",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "author": {
     "name": "Pavel Lysenko aka Ohar",
     "email": "code@ohar.name",
